@@ -2,7 +2,7 @@
 
 👩‍💻 I'm a Computer Engineer
 
-🔭 Currently, I'm working on Spring Framework and Spring Boot.
+🔭 Currently, I'm working on Spring Framework.
 
 🌱 I'm currently learning Frontend and Microservices.
 
