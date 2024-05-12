@@ -10,7 +10,7 @@
 
 🤝 I'm open for any advice.
 
-👨‍💻 You can find all of my projects on [my GitHub profile](https://github.com/Seyma000?tab=repositories).
+👩‍💻 You can find all of my projects on [my GitHub profile](https://github.com/Seyma000?tab=repositories).
 
 💬 Feel free to ask me about anything.
 
